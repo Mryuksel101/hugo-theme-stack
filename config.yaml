@@ -25,7 +25,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/neon.png
 
     article:
         math: false
@@ -139,3 +139,7 @@ params:
             enabled: true
         content:
             enabled: true
+
+
+enableRobotsTXT: true
+
